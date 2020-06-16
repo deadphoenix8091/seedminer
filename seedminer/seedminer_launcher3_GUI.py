@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 #Seedminer Text-based UI v1.0
 
 #fef0fef0fef0fef0fef0fef0fef0fef0
